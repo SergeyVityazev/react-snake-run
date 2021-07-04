@@ -1,0 +1,14 @@
+.Statistic {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.Statistic .Title {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.Statistic .Loss {
+    color: red;
+    font-size:25px
+}

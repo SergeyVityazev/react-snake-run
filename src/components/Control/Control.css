@@ -1,0 +1,12 @@
+.Control {
+    display: flex;
+    height: 30px;
+    width: 30px;
+}
+
+.Control img {
+  display: block;
+  height: 30px;
+  width: 30px;
+  padding-left: 10px;
+}
